@@ -3,5 +3,4 @@ scikit-learn
 pandas
 pickle
 xgboost
-streamlit
 Pillow
